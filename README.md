@@ -6,4 +6,4 @@ Scenario testing sample of instagram web using cypress with javascript
 - Test of sign up navigate
 - Test of forgot password navigate
 - Test of get app from apple store navigate
-- Test of gett app from google play navigate
+- Test of get app from google play navigate
